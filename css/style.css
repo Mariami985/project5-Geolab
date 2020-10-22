@@ -63,11 +63,6 @@
 	background-color:#BDCCD4;
 	padding: 40px;
 }
-.text1{
-	font-size: 20px;
-	color: #3D58A6;
-	margin-bottom: 40px;
-}
 .image2{
 	float: left;
 	margin-right: 30px;
@@ -93,6 +88,7 @@
 .test{
 	margin-top: 10px;
 	margin-bottom:20px;
+	text-transform: uppercase;:
 }
 .box3 img{
 	float: left;
